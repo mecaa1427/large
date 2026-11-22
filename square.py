@@ -1,4 +1,4 @@
 num =int(input("enter a number"))
 
-square =( num * num)
-print("the square is",square)
+cube =( num * num * num)
+print("the cube is",cube)
